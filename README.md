@@ -10,4 +10,4 @@ Below are some visualisations for VAR levels for each method:
 ![Parametric VaR](https://github.com/UMajumder/VaR_Modelling_and_Backtesting/blob/main/Parametric.png)
 
 ### Monte-Carlo Simulation VaR Output:
-(https://github.com/UMajumder/VaR_Modelling_and_Backtesting/blob/main/Monte%20Carlo.png)
+![Monte-Carlo VaR](https://github.com/UMajumder/VaR_Modelling_and_Backtesting/blob/main/Monte%20Carlo.png)

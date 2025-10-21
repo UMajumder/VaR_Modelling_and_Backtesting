@@ -1,0 +1,4 @@
+In this project I computed the value at risk of a hypothetical portfolio consisting of the top 10 stocks of Nifty50, using all the 3 methods and then back-tested the models, 
+and finally calculated Expected Shortfall for the Portfolio.
+I have considered One year of data.
+Below are some visualisations for VAR levels for each method:

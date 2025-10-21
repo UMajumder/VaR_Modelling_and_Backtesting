@@ -2,3 +2,6 @@ In this project I computed the value at risk of a hypothetical portfolio consist
 and finally calculated Expected Shortfall for the Portfolio.
 I have considered One year of data.
 Below are some visualisations for VAR levels for each method:
+
+### Historical Simulation Output
+![Historical VaR](https://github.com/UMajumder/VaR_Modelling_and_Backtesting/blob/main/Historical.png)

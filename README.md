@@ -5,3 +5,8 @@ Below are some visualisations for VAR levels for each method:
 
 ### Historical Simulation Output
 ![Historical VaR](https://github.com/UMajumder/VaR_Modelling_and_Backtesting/blob/main/Historical.png)
+
+### Parametric VaR Output:
+![Parametric VaR](https://github.com/UMajumder/VaR_Modelling_and_Backtesting/blob/main/Parametric.png)
+
+
